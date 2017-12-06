@@ -13123,7 +13123,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rifqi\\.nuget\\packages\\": {},
+    "C:\\Users\\rifqi\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -13132,17 +13132,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rifqi\\Documents\\Visual Studio 2017\\Projects\\SmartTicketing\\SmartTicketing\\SmartTicketing.csproj",
+      "projectUniqueName": "C:\\Users\\rifqi\\Documents\\Visual Studio 2017\\Project\\SmartTicketing\\SmartTicketing\\SmartTicketing.csproj",
       "projectName": "SmartTicketing",
-      "projectPath": "C:\\Users\\Rifqi\\Documents\\Visual Studio 2017\\Projects\\SmartTicketing\\SmartTicketing\\SmartTicketing.csproj",
-      "packagesPath": "C:\\Users\\Rifqi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rifqi\\Documents\\Visual Studio 2017\\Projects\\SmartTicketing\\SmartTicketing\\obj\\",
+      "projectPath": "C:\\Users\\rifqi\\Documents\\Visual Studio 2017\\Project\\SmartTicketing\\SmartTicketing\\SmartTicketing.csproj",
+      "packagesPath": "C:\\Users\\rifqi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rifqi\\Documents\\Visual Studio 2017\\Project\\SmartTicketing\\SmartTicketing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rifqi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rifqi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

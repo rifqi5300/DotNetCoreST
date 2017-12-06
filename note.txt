@@ -1,0 +1,3 @@
+setup yang diperlukan:
+1. setup objek ticket
+2. title utk objek ticket tiap level (ex: modul, submodul, subsubmodul[ini default jika tidak ada title])
