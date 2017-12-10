@@ -10,3 +10,15 @@ C:\Users\Rifqi\Documents\Visual Studio 2017\Projects\SmartTicketing\SmartTicketi
 C:\Users\Rifqi\Documents\Visual Studio 2017\Projects\SmartTicketing\SmartTicketing\obj\Debug\netcoreapp2.0\SmartTicketing.AssemblyInfo.cs
 C:\Users\Rifqi\Documents\Visual Studio 2017\Projects\SmartTicketing\SmartTicketing\obj\Debug\netcoreapp2.0\SmartTicketing.dll
 C:\Users\Rifqi\Documents\Visual Studio 2017\Projects\SmartTicketing\SmartTicketing\obj\Debug\netcoreapp2.0\SmartTicketing.pdb
+C:\Users\rifqi\Documents\Visual Studio 2017\Project\SmartTicketing\SmartTicketing\bin\Debug\netcoreapp2.0\SmartTicketing.deps.json
+C:\Users\rifqi\Documents\Visual Studio 2017\Project\SmartTicketing\SmartTicketing\bin\Debug\netcoreapp2.0\SmartTicketing.runtimeconfig.json
+C:\Users\rifqi\Documents\Visual Studio 2017\Project\SmartTicketing\SmartTicketing\bin\Debug\netcoreapp2.0\SmartTicketing.runtimeconfig.dev.json
+C:\Users\rifqi\Documents\Visual Studio 2017\Project\SmartTicketing\SmartTicketing\bin\Debug\netcoreapp2.0\SmartTicketing.dll
+C:\Users\rifqi\Documents\Visual Studio 2017\Project\SmartTicketing\SmartTicketing\bin\Debug\netcoreapp2.0\SmartTicketing.pdb
+C:\Users\rifqi\Documents\Visual Studio 2017\Project\SmartTicketing\SmartTicketing\obj\Debug\netcoreapp2.0\SmartTicketing.csprojResolveAssemblyReference.cache
+C:\Users\rifqi\Documents\Visual Studio 2017\Project\SmartTicketing\SmartTicketing\obj\Debug\netcoreapp2.0\SmartTicketing.csproj.CoreCompileInputs.cache
+C:\Users\rifqi\Documents\Visual Studio 2017\Project\SmartTicketing\SmartTicketing\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\rifqi\Documents\Visual Studio 2017\Project\SmartTicketing\SmartTicketing\obj\Debug\netcoreapp2.0\SmartTicketing.AssemblyInfoInputs.cache
+C:\Users\rifqi\Documents\Visual Studio 2017\Project\SmartTicketing\SmartTicketing\obj\Debug\netcoreapp2.0\SmartTicketing.AssemblyInfo.cs
+C:\Users\rifqi\Documents\Visual Studio 2017\Project\SmartTicketing\SmartTicketing\obj\Debug\netcoreapp2.0\SmartTicketing.dll
+C:\Users\rifqi\Documents\Visual Studio 2017\Project\SmartTicketing\SmartTicketing\obj\Debug\netcoreapp2.0\SmartTicketing.pdb

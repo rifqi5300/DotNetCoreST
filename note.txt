@@ -1,7 +1,9 @@
 setup yang diperlukan:
-1. setup objek ticket
-2. title utk objek ticket tiap level (ex: modul, submodul, subsubmodul[ini default jika tidak ada title])
-3. [opsional] tampilkan statistik ticket user, pilih jenis diagram
+- setup objek ticket
+- setup objek ticket bisa ada child and parent
+- setup type penyebab khusus utk objek bertype error, misal type penyebab: human error, system error. ini user harus bisa custom
+- title utk objek ticket tiap level (ex: modul, submodul, subsubmodul[ini default jika tidak ada title])
+- [opsional] tampilkan statistik ticket user, pilih jenis diagram
 
 
 
