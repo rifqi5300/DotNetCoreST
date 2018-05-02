@@ -13129,11 +13129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\razhar\\source\\repos\\DotNetCoreST\\SmartTicketing\\SmartTicketing.csproj",
+      "projectUniqueName": "C:\\Users\\razhar\\Source\\Repos\\DotNetCoreST\\SmartTicketing\\SmartTicketing.csproj",
       "projectName": "SmartTicketing",
-      "projectPath": "C:\\Users\\razhar\\source\\repos\\DotNetCoreST\\SmartTicketing\\SmartTicketing.csproj",
+      "projectPath": "C:\\Users\\razhar\\Source\\Repos\\DotNetCoreST\\SmartTicketing\\SmartTicketing.csproj",
       "packagesPath": "C:\\Users\\razhar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\razhar\\source\\repos\\DotNetCoreST\\SmartTicketing\\obj\\",
+      "outputPath": "C:\\Users\\razhar\\Source\\Repos\\DotNetCoreST\\SmartTicketing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
